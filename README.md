@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ANGULAR, JAVA, SQL, AWS & MariaDB.<br>👯 I’m looking to collaborate on Web Application Projects.<br>🤝 I’m looking for help with the same technologies mentioned above.<br>🌱 I’m currently learning to improve my coding skills.<br>💬 Ask me about the technologies.<br>
+🔭 I’m currently working on ANGULAR, JAVA, SpringBoot, Maven, Hibernate, SQL, AWS & MariaDB.<br>👯 I’m looking to collaborate on Web Application Projects.<br>🤝 I’m looking for help with the same technologies mentioned above.<br>🌱 I’m currently learning to improve my coding skills.<br>💬 Ask me about the technologies.<br>
 
 
 ## 🌐 Socials:
